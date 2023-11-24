@@ -22,9 +22,6 @@ TASK-5: STUDENT COURSE REGISTRATION SYSTEM
 
 Feel free to use these Java code examples for learning purposes, practice, or reference. You can clone this repository locally to explore the codes and further understand the concepts behind each task.
 
-## Contribution
-
-If you're a participant of the CODSOFT internship program and would like to contribute additional Java code examples or improvements to existing tasks, you're welcome to create a pull request.
 
 ## Contact
 
